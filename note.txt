@@ -1,0 +1,11 @@
+Câu hỏi họp ngày (30/6/2023):
+    + Deadline trang web -> 10/7
+    + Tính năng cụ thể(Bao gồm những tính năng cần thiết để tiết kiệm thời gian)
+    + 
+
+Ghi chú:
+body: nền nâu, chữ trắng
+    + header: 
+        - bỏ blog 
+        - thay Page -> Thêm phần "đối tác" -> cung cấp thông tin & đăng kí đối tác
+        - thêm thanh điều khoản -> ghi nội dung điều khoản đối với người đăng kí apps
